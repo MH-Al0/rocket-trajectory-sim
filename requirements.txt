@@ -1,7 +1,4 @@
-numpy pour les calculs numériques
-
-scipy pour l’intégration (solve_ivp)
-
-matplotlib pour tracer la trajectoire
-
-pandas pour sauvegarder les résultats (CSV)
+numpy
+scipy
+matplotlib
+pandas
